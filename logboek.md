@@ -9,3 +9,8 @@
 
 * 4u les
 * 3u Oefening Api
+
+## Week 2
+
+* 4u les
+* 2u Oefening Api
